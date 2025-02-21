@@ -356,7 +356,7 @@ function renderOverPage(
     );
   }
 
-  const urlToCopy = "https://eeue56.github.io/heddwch/#fact-or-fiction";
+  const urlToCopy = "https://eeue56.github.io/heddwch/fact-or-fiction/";
 
   return renderer`
 <div class="results-summary">

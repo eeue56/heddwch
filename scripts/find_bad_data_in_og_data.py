@@ -4,7 +4,7 @@ import glob
 
 
 def main():
-    with open("./claim_review_opengraph_database.json") as f:
+    with open("./src/data/claim_review_opengraph_database.json") as f:
         data = json.load(f)
 
     bad_review_urls = []
@@ -14,6 +14,10 @@ def main():
             bad_review_urls.append(key)
 
     for file in glob.glob("src/data/*.json"):
+        # skip the claim review db itself
+        if "claim_review_opengraph_database" in file:
+            continue
+
         with open(file) as f:
             data = json.load(f)
 
@@ -35,7 +39,7 @@ def main():
             print("Writing to file, length:", len(data))
 
             with open(file, "w") as f:
-                json.dump(data, f)
+                json.dump(data, f, indent=4)
 
 
 main()

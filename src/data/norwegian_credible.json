@@ -1,1602 +1,1506 @@
 [
-  {
-    "claim_text": [
-      "Nordmenn flyr nå fire ganger mer enn svenskene. Vi er på Europa-toppen."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/zkqez/nordmenn-flyr-na-fire-ganger-mer-enn-svenskene-vi-er-pa-europa-toppen",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
-    },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Nordmenn flyr n\u00e5 fire ganger mer enn svenskene. Vi er p\u00e5 Europa-toppen."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/zkqez/nordmenn-flyr-na-fire-ganger-mer-enn-svenskene-vi-er-pa-europa-toppen",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-10-16"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Det er faktisk 60 prosent av foreldrene som bruker dagens kontantstøtteordning."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/jx22z/60-prosent-av-foreldrene-benytter-seg-av-kontantstotte",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-10-16"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Det er faktisk 60 prosent av foreldrene som bruker dagens kontantst\u00f8tteordning."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/jx22z/60-prosent-av-foreldrene-benytter-seg-av-kontantstotte",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2017-07-18"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "62 000 000 000 000 kr - eller nesten 50 norske statsbudsjett - har verdens superrike gjemt unna i skatteparadiser."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/0o21j/verdens-superrike-har-gjemt-unna-62-000-milliarder-i-skatteparadiser",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2017-07-18"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "62\u00a0000\u00a0000\u00a0000\u00a0000 kr - eller nesten 50 norske statsbudsjett - har verdens superrike gjemt unna i skatteparadiser."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/0o21j/verdens-superrike-har-gjemt-unna-62-000-milliarder-i-skatteparadiser",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2017-11-08"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Lyset fra mobilskjermen kan ødelegge søvnen."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/jn9k0/lyset-fra-mobilskjermen-kan-odelegge-sovnen-din",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2017-11-08"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Lyset fra mobilskjermen kan \u00f8delegge s\u00f8vnen."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/jn9k0/lyset-fra-mobilskjermen-kan-odelegge-sovnen-din",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-04-04"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Hvis du ser på Gini-koeffisienten (...) så gikk ulikheten ned [mens SV satt i regjering]."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/j1gkw/hvis-du-ser-pa-gini-koeffisienten-sa-gikk-ulikheten-ned-mens-sv-satt-i-regjering",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-04-04"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Hvis du ser p\u00e5 Gini-koeffisienten (...) s\u00e5 gikk ulikheten ned [mens SV satt i regjering]."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/j1gkw/hvis-du-ser-pa-gini-koeffisienten-sa-gikk-ulikheten-ned-mens-sv-satt-i-regjering",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2020-01-07"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "[...] vi øker antall behandlere til barn og unge (i BUP)."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/j1ggg/det-har-blitt-flere-behandlere-i-barne-og-ungdomspsykiatrien",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2020-01-07"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "[...] vi \u00f8ker antall behandlere til barn og unge (i BUP)."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/j1ggg/det-har-blitt-flere-behandlere-i-barne-og-ungdomspsykiatrien",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2019-12-13"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "For det første holder kontantstøtten mange kvinner borte fra arbeidslivet. For det andre bidrar den til at barn som burde vært i barnehagen, ikke er i barnehagen; det gjelder spesielt barn med innvandrerbakgrunn."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/qjno0/kontantstotte-holder-kvinner-borte-fra-arbeidslivet-og-barn-borte-fra-barnehagen",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2019-12-13"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "For det f\u00f8rste holder kontantst\u00f8tten mange kvinner borte fra arbeidslivet. For det andre bidrar den til at barn som burde v\u00e6rt i barnehagen, ikke er i barnehagen; det gjelder spesielt barn med innvandrerbakgrunn."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/qjno0/kontantstotte-holder-kvinner-borte-fra-arbeidslivet-og-barn-borte-fra-barnehagen",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2017-07-12"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Både Storbritannia, Frankrike og Finland har flere betalte feriedager enn Norge"
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/06v4z/bade-storbritannia-frankrike-og-finland-har-flere-betalte-feriedager-enn-norge",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2017-07-12"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "B\u00e5de Storbritannia, Frankrike og Finland har flere betalte feriedager enn Norge"
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/06v4z/bade-storbritannia-frankrike-og-finland-har-flere-betalte-feriedager-enn-norge",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-05-29"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Regjeringen gjør det [...] dyrere å være syk"
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/z39oy/regjeringen-gjor-det-dyrere-a-vaere-syk",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-05-29"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Regjeringen gj\u00f8r det [...] dyrere \u00e5 v\u00e6re syk"
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/z39oy/regjeringen-gjor-det-dyrere-a-vaere-syk",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2020-10-30"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Vi har fjernet roamingkostnadene i EU og EØS."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/jewwj/vi-har-fjernet-roamingkostnadene-i-eu-og-eos",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2020-10-30"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Vi har fjernet roamingkostnadene i EU og E\u00d8S."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/jewwj/vi-har-fjernet-roamingkostnadene-i-eu-og-eos",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2017-07-10"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Antall mindreårige som har mer enn ti registrerte lovbrudd i løpet av ett år, har doblet seg i løpet av to-tre år."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/j7rgz/i-oslo-har-antall-mindrearige-med-mer-enn-ti-registrerte-lovbrudd-i-lopet-av-ett-ar-doblet-seg-pa-to",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2017-07-10"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Antall mindre\u00e5rige som har mer enn ti registrerte lovbrudd i l\u00f8pet av ett \u00e5r, har doblet seg i l\u00f8pet av to-tre \u00e5r."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/j7rgz/i-oslo-har-antall-mindrearige-med-mer-enn-ti-registrerte-lovbrudd-i-lopet-av-ett-ar-doblet-seg-pa-to",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-06-22"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "I april ble havørn nummer 96 funnet drept av vindturbinene på Smøla i Møre og Romsdal."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/jdvwj/100-havorner-funnet-drept-av-vindturbiner-pa-smola",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-06-22"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "I april ble hav\u00f8rn nummer 96 funnet drept av vindturbinene p\u00e5 Sm\u00f8la i M\u00f8re og Romsdal."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/jdvwj/100-havorner-funnet-drept-av-vindturbiner-pa-smola",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2019-09-30"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Vi må faktisk tilbake til forrige årtusen for å finne et bedre resultat for norske kommuner enn det man fikk i 2016."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/oz3lz/kommuneokonomien-har-ikke-vaert-sa-god-siden-forrige-artusen",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2019-09-30"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Vi m\u00e5 faktisk tilbake til forrige \u00e5rtusen for \u00e5 finne et bedre resultat for norske kommuner enn det man fikk i 2016."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/oz3lz/kommuneokonomien-har-ikke-vaert-sa-god-siden-forrige-artusen",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2017-07-16"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Tall fra Statistisk sentralbyrå viser at små kommuner er overrepresentert når det gjelder andelen saker der barnevernet griper inn og overtar omsorgen for barna."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/jydxj/tall-fra-ssb-viser-at-sma-kommuner-er-overrepresentert-i-andel-omsorgsovertagelser",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2017-07-16"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Tall fra Statistisk sentralbyr\u00e5 viser at sm\u00e5 kommuner er overrepresentert n\u00e5r det gjelder andelen saker der barnevernet griper inn og overtar omsorgen for barna."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/jydxj/tall-fra-ssb-viser-at-sma-kommuner-er-overrepresentert-i-andel-omsorgsovertagelser",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-04-25"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Norge ligger på andreplass i den ferske og verdensomfattende undersøkelsen som omhandler konsumering av alkohol."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/jnr20/norge-ligger-pa-andreplass-i-verden-i-en-undersokelse-om-alkoholkonsum",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-04-25"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Norge ligger p\u00e5 andreplass i den ferske og verdensomfattende unders\u00f8kelsen som omhandler konsumering av alkohol."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/jnr20/norge-ligger-pa-andreplass-i-verden-i-en-undersokelse-om-alkoholkonsum",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-12-27"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Vi har sendt ut snart 30 000 illegale innvandrere"
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/j78x0/vi-har-sendt-ut-snart-30-000-illegale-innvandrere",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-12-27"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Vi har sendt ut snart 30 000 illegale innvandrere"
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/j78x0/vi-har-sendt-ut-snart-30-000-illegale-innvandrere",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2017-08-31"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Mange fryktet at fraværsgrensen ville føre til at flere elever ikke fikk karakter i fag og at flere sluttet i videregående. Tallene viser det motsatte."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/jxp20/fravaersgrensen-har-ikke-fort-til-at-flere-mister-karakterer-eller-slutter-pa-videregaende",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2017-08-31"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Mange fryktet at frav\u00e6rsgrensen ville f\u00f8re til at flere elever ikke fikk karakter i fag og at flere sluttet i videreg\u00e5ende. Tallene viser det motsatte."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/jxp20/fravaersgrensen-har-ikke-fort-til-at-flere-mister-karakterer-eller-slutter-pa-videregaende",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2017-07-07"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "[I Oslo politidistrikt] ser vi en dobling [...] i antall knivstikkinger på en viss periode i år sammenlignet med året før."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/061gz/det-har-vaert-en-dobling-i-antall-loggforte-knivstikkinger-i-oslo-politidistrikt-sammenlignet-med-sa",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2017-07-07"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "[I Oslo politidistrikt] ser vi en dobling [...] i antall knivstikkinger p\u00e5 en viss periode i \u00e5r sammenlignet med \u00e5ret f\u00f8r."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/061gz/det-har-vaert-en-dobling-i-antall-loggforte-knivstikkinger-i-oslo-politidistrikt-sammenlignet-med-sa",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2019-04-17"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Med både Elvestuen, Astrup og Grande blir regjeringen enda mer Oslo-dominert."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/jy9xz/den-nye-regjeringen-er-mer-oslo-dominert-enn-den-forrige",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2019-04-17"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Med b\u00e5de Elvestuen, Astrup og Grande blir regjeringen enda mer Oslo-dominert."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/jy9xz/den-nye-regjeringen-er-mer-oslo-dominert-enn-den-forrige",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-01-19"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Vi har siden 2012 tatt imot nesten 80 000 personer som har fått opphold i Norge."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/jxxxj/siden-2012-har-vi-tatt-imot-nesten-80-000-personer-som-har-fatt-opphold-i-norge",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-01-19"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Vi har siden 2012 tatt imot nesten 80 000 personer som har f\u00e5tt opphold i Norge."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/jxxxj/siden-2012-har-vi-tatt-imot-nesten-80-000-personer-som-har-fatt-opphold-i-norge",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2017-11-01"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "[F]lyktninger som får opphold i Norge har krav på 40-års opptjening i folketrygden - med alle rettigheter fra første dag."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/z3poj/flyktninger-som-far-opphold-i-norge-har-krav-pa-rettigheter-som-ellers-krever-40-ars-medlemskap-i-fo",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2017-11-01"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "[F]lyktninger som f\u00e5r opphold i Norge har krav p\u00e5 40-\u00e5rs opptjening i folketrygden - med alle rettigheter fra f\u00f8rste dag."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/z3poj/flyktninger-som-far-opphold-i-norge-har-krav-pa-rettigheter-som-ellers-krever-40-ars-medlemskap-i-fo",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-11-08"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Stadig færre kommuner havner på ROBEK-listen."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/0v98j/stadig-faerre-kommuner-havner-pa-robek-listen",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-11-08"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Stadig f\u00e6rre kommuner havner p\u00e5 ROBEK-listen."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/0v98j/stadig-faerre-kommuner-havner-pa-robek-listen",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2017-07-08"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Dette skiftegebyret Senterpartiet hissar seg opp over på #polkvart er altså med og finansierer Senterpartiet sitt alternative statsbudsjett."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/zw8vz/skiftegebyret-som-senterpartiet-hissar-seg-opp-over-er-med-pa-a-finansiere-deira-eige-alternative-st",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2017-07-08"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Dette skiftegebyret Senterpartiet hissar seg opp over p\u00e5 #polkvart er alts\u00e5 med og finansierer Senterpartiet sitt alternative statsbudsjett."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/zw8vz/skiftegebyret-som-senterpartiet-hissar-seg-opp-over-er-med-pa-a-finansiere-deira-eige-alternative-st",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-03-09"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Det som er helt uforståelig, er at kvinner som ikke har barn – eller barn over 16 år – jobber mer deltid enn småbarnsmødrene."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/0vde0/kvinner-som-ikke-har-barn-eller-som-har-barn-over-16-ar-jobber-mer-deltid-enn-smabarnsmodre",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-03-09"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Det som er helt uforst\u00e5elig, er at kvinner som ikke har barn \u2013 eller barn over 16 \u00e5r \u2013 jobber mer deltid enn sm\u00e5barnsm\u00f8drene."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/0vde0/kvinner-som-ikke-har-barn-eller-som-har-barn-over-16-ar-jobber-mer-deltid-enn-smabarnsmodre",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-01-10"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Elektronisk kontroll er en straff som virker."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/zp5kj/soning-med-fotlenke-er-en-straff-som-virker",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-01-10"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Elektronisk kontroll er en straff som virker."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/zp5kj/soning-med-fotlenke-er-en-straff-som-virker",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-04-20"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Fjerner du formuesskatten med dagens system, så produserer du over 25 000 nullskattytere."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/jyl75/fjerner-du-formuesskatten-produserer-du-over-25-000-nullskattytere",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-04-20"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Fjerner du formuesskatten med dagens system, s\u00e5 produserer du over 25 000 nullskattytere."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/jyl75/fjerner-du-formuesskatten-produserer-du-over-25-000-nullskattytere",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2020-09-23"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "I Norge blir over 3 millioner kyllinger kvernet levende hvert år."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/jx4mx/riktig-at-over-tre-millioner-norske-kyllinger-blir-kvernet-levende-hvert-ar",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2020-09-23"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "I Norge blir over 3 millioner kyllinger kvernet levende hvert \u00e5r."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/jx4mx/riktig-at-over-tre-millioner-norske-kyllinger-blir-kvernet-levende-hvert-ar",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2020-12-08"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Bomsatsene er noe både H, V, KrF og byrådspartiene er enige i. Samtidig har en samferdselsminister fra Frp skrevet under den avtalen. Så det virker som mange ønsker å legge skylda på Miljøpartiet De Grønne. Og det er med respekt å melde bare tøv."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/z4920/det-er-bred-politisk-enighet-om-bomsatsene-det-er-tov-a-legge-skylda-pa-mdg",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2020-12-08"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Bomsatsene er noe b\u00e5de H, V, KrF og byr\u00e5dspartiene er enige i. Samtidig har en samferdselsminister fra Frp skrevet under den avtalen. S\u00e5 det virker som mange \u00f8nsker \u00e5 legge skylda p\u00e5 Milj\u00f8partiet De Gr\u00f8nne. Og det er med respekt \u00e5 melde bare t\u00f8v."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/z4920/det-er-bred-politisk-enighet-om-bomsatsene-det-er-tov-a-legge-skylda-pa-mdg",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2017-10-09"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "For 18 år siden valgte Stortinget Inger-Marie Ytterhorn til Nobelkomiteen. Hun var også 2. vara til Stortinget for Hordaland. Og møtte også i perioden på Stortinget mens hun var medlem av Nobelkomiteen."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/0gyx0/inger-marie-ytterhorn-frp-motte-som-vara-pa-stortinget-mens-hun-satt-i-nobelkomiteen",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2017-10-09"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "For 18 \u00e5r siden valgte Stortinget Inger-Marie Ytterhorn til Nobelkomiteen. Hun var ogs\u00e5 2. vara til Stortinget for Hordaland. Og m\u00f8tte ogs\u00e5 i perioden p\u00e5 Stortinget mens hun var medlem av Nobelkomiteen."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/0gyx0/inger-marie-ytterhorn-frp-motte-som-vara-pa-stortinget-mens-hun-satt-i-nobelkomiteen",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2017-11-24"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Du kan unngå skader [i forbindelse med tordenvær] hvis du trekker ut kontakten til [elektriske apparater]"
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/zkwez/du-kan-unnga-skader-hvis-du-trekker-ut-kontaktene-i-tordenvaer",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2017-11-24"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Du kan unng\u00e5 skader [i forbindelse med tordenv\u00e6r] hvis du trekker ut kontakten til [elektriske apparater]"
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/zkwez/du-kan-unnga-skader-hvis-du-trekker-ut-kontaktene-i-tordenvaer",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-10-17"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Mer og breiere veier gir mer kø."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/z9dvj/flere-og-bredere-veier-gir-mer-ko",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-10-17"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Hvis du sykler over gangfeltet, har ikke andre kj\u00f8rende vikeplikt for deg."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/z9m2d/bilister-har-ikke-vikeplikt-for-syklende-pa-grunn-av-gangfelt",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2017-07-05"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Hvis du sykler over gangfeltet, har ikke andre kjørende vikeplikt for deg."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/z9m2d/bilister-har-ikke-vikeplikt-for-syklende-pa-grunn-av-gangfelt",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2020-09-16"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "[Det st\u00e5r f\u00e6rre folk i helsek\u00f8]."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/z823z/det-star-faerre-folk-i-helseko",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2020-09-16"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "[Det står færre folk i helsekø]."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/z823z/det-star-faerre-folk-i-helseko",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-03-05"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Flere unge mennesker forsvinner n\u00e5 ut av arbeidsmarkedet p\u00e5 grunn av lettere psykiske lidelser"
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/j79yz/flere-unge-enn-for-forsvinner-fra-arbeidsmarkedet-pa-grunn-av-lette-psykiske-lidelser",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-03-05"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Flere unge mennesker forsvinner nå ut av arbeidsmarkedet på grunn av lettere psykiske lidelser"
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/j79yz/flere-unge-enn-for-forsvinner-fra-arbeidsmarkedet-pa-grunn-av-lette-psykiske-lidelser",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2017-08-01"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Norge har f\u00e5tt nesten en ny uf\u00f8retrygdet i timen mens Erna Solberg har v\u00e6rt statsminister."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/j1g55/norge-har-fatt-nesten-en-ny-uforetrygdet-i-timen-under-erna-solberg",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2017-08-01"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Norge har fått nesten en ny uføretrygdet i timen mens Erna Solberg har vært statsminister."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/j1g55/norge-har-fatt-nesten-en-ny-uforetrygdet-i-timen-under-erna-solberg",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2020-06-15"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Fra 2014 til 2016 \u00f8kte norske b\u00f8nder per \u00e5rsverk sin inntekt med 20 prosent"
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/jexx0/fra-2014-til-2016-okte-norske-bonder-per-arsverk-sin-inntekt-med-20-prosent",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2020-06-15"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Fra 2014 til 2016 økte norske bønder per årsverk sin inntekt med 20 prosent"
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/jexx0/fra-2014-til-2016-okte-norske-bonder-per-arsverk-sin-inntekt-med-20-prosent",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-05-18"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "N\u00e5 har det [andelen ukvalifiserte l\u00e6rere] flatet ut."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/z252z/na-har-andelen-ukvalifiserte-laerere-flatet-ut",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-05-18"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "I dag varierer lærertettheten med over 300 prosent mellom sammenlignbare kommuner."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/0ow6j/i-dag-varierer-laerertettheten-med-over-300-prosent-mellom-sammenlignbare-kommuner",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-02-19"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Ved alle nye etableringer av statlige arbeidsplasser, skal annen lokalisering [enn Oslo] vurderes. Ingen har gjort mer p\u00e5 dette enn Bondevik 2-regjeringen."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/z2rdj/ingen-etablerte-sa-mange-nye-statlige-arbeidsplasser-utenfor-oslo-som-bondevik-2-regjeringen",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2017-07-05"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Nå har det [andelen ukvalifiserte lærere] flatet ut."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/z252z/na-har-andelen-ukvalifiserte-laerere-flatet-ut",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2017-07-19"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Luftm\u00e5lingene viser [...] at luften [i Oslo] blir stadig bedre \u00e5r for \u00e5r"
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/z8730/luftmalingene-viser-at-luften-i-oslo-blir-stadig-bedre-ar-for-ar",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-02-19"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Ved alle nye etableringer av statlige arbeidsplasser, skal annen lokalisering [enn Oslo] vurderes. Ingen har gjort mer på dette enn Bondevik 2-regjeringen."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/z2rdj/ingen-etablerte-sa-mange-nye-statlige-arbeidsplasser-utenfor-oslo-som-bondevik-2-regjeringen",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-01-29"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Beskatning av formue i bredt, i mange andre land, er h\u00f8yere enn den er i Norge"
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/j1qg0/skatt-pa-alle-typer-formue-er-hoyere-i-mange-andre-land-enn-i-norge",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2017-07-19"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Luftmålingene viser [...] at luften [i Oslo] blir stadig bedre år for år"
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/z8730/luftmalingene-viser-at-luften-i-oslo-blir-stadig-bedre-ar-for-ar",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2017-08-09"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "[...] takten i boligbyggingen har g\u00e5tt opp"
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/zk5mw/takten-i-boligbyggingen-har-gatt-opp",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-01-29"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Vi har satt rekorder i bosettingen i kommunene slik at vi kommer i gang med integreringsprosessen."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/j1ogz/bosettingen-har-vaert-rekordhoy-i-lopet-av-solberg-regjeringens-periode",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2020-08-14"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "90 prosent av alle de som s\u00f8ker om abort etter uke 12, de f\u00e5r innvilget dette."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/zpxp0/90-prosent-av-dem-som-soker-om-abort-etter-uke-12-far-det-innvilget",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2017-07-05"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Beskatning av formue i bredt, i mange andre land, er høyere enn den er i Norge"
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/j1qg0/skatt-pa-alle-typer-formue-er-hoyere-i-mange-andre-land-enn-i-norge",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-08-31"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Det [er] f\u00f8rst og fremst Frp-politikere som er mest utsatt for hat, trusler, fysiske angrep og fors\u00f8k p\u00e5 angrep eller trusler om skade p\u00e5 n\u00e6rtst\u00e5ende personer."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/je2xj/frp-politikere-er-mest-utsatt-for-hat-trusler-og-fysiske-angrep",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2017-08-09"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "[...] takten i boligbyggingen har gått opp"
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/zk5mw/takten-i-boligbyggingen-har-gatt-opp",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-07-31"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Norge har verdens h\u00f8yeste sykefrav\u00e6r."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/jngyz/norge-har-verdens-hoyeste-sykefravaer",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2020-08-14"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "90 prosent av alle de som søker om abort etter uke 12, de får innvilget dette."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/zpxp0/90-prosent-av-dem-som-soker-om-abort-etter-uke-12-far-det-innvilget",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-04-09"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "I verste fall kan meslingsmitte bety d\u00f8den."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/0gexz/meslinger-kan-i-verste-fall-vaere-dodelig",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-08-31"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Det [er] først og fremst Frp-politikere som er mest utsatt for hat, trusler, fysiske angrep og forsøk på angrep eller trusler om skade på nærtstående personer."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/je2xj/frp-politikere-er-mest-utsatt-for-hat-trusler-og-fysiske-angrep",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-01-10"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "De siste 50\u201360 \u00e5rene er det ingen som har turt \u00e5 eksperimentere med en tr\u00f8nderfri regjering, unntatt Thorbj\u00f8rn Jagland."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/jnp2z/det-har-vaert-trondere-i-alle-regjeringer-de-siste-5060-arene-bortsett-fra-i-jagland-regjeringen",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-07-31"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Norge har verdens høyeste sykefravær."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/jngyz/norge-har-verdens-hoyeste-sykefravaer",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2019-01-22"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "En gjennomsnittlig familie har f\u00e5tt rundt 10 000 kroner i skattelette med Frp i regjering."
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/z8x3j/en-gjennomsnittlig-familie-har-fatt-rundt-10-000-kroner-i-skattelette-med-frp-i-regjering",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-04-09"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "I verste fall kan meslingsmitte bety døden."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/0gexz/meslinger-kan-i-verste-fall-vaere-dodelig",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2018-04-26"
+            }
+        ]
     },
-    "appearances": [],
-    "reviews": [
-      {
+    {
+        "claim_text": [
+            "Visste du at regjeringen avskaffet gratis fysioterapi for (blant annet) kreftsyke, brannskadde og amputerte?"
+        ],
         "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
+        "review_url": "https://www.faktisk.no/artikler/je7wz/regjeringen-har-avskaffet-gratis-fysioterapi-for-kreftsyke-brannskadde-og-amputerte",
+        "fact_checker": {
+            "name": "faktiskno",
+            "country": "Norway",
+            "language": "Norwegian",
+            "website": "https://www.faktisk.no",
+            "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
+            "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
+            "domain": "faktisk.no"
         },
-        "retrieved_by": null,
-        "date_published": "2018-01-10"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "De siste 50–60 årene er det ingen som har turt å eksperimentere med en trønderfri regjering, unntatt Thorbjørn Jagland."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/jnp2z/det-har-vaert-trondere-i-alle-regjeringer-de-siste-5060-arene-bortsett-fra-i-jagland-regjeringen",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
-    },
-    "appearances": [],
-    "reviews": [
-      {
-        "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
-        },
-        "retrieved_by": null,
-        "date_published": "2019-01-22"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "En gjennomsnittlig familie har fått rundt 10 000 kroner i skattelette med Frp i regjering."
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/z8x3j/en-gjennomsnittlig-familie-har-fatt-rundt-10-000-kroner-i-skattelette-med-frp-i-regjering",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
-    },
-    "appearances": [],
-    "reviews": [
-      {
-        "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
-        },
-        "retrieved_by": null,
-        "date_published": "2018-04-26"
-      }
-    ]
-  },
-  {
-    "claim_text": [
-      "Visste du at regjeringen avskaffet gratis fysioterapi for (blant annet) kreftsyke, brannskadde og amputerte?"
-    ],
-    "label": "credible",
-    "review_url": "https://www.faktisk.no/artikler/je7wz/regjeringen-har-avskaffet-gratis-fysioterapi-for-kreftsyke-brannskadde-og-amputerte",
-    "fact_checker": {
-      "name": "faktiskno",
-      "country": "Norway",
-      "language": "Norwegian",
-      "website": "https://www.faktisk.no",
-      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/faktiskno",
-      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/681E6E3C-1A03-F91E-C643-9FB26E8BCAFA.png",
-      "domain": "faktisk.no"
-    },
-    "appearances": [],
-    "reviews": [
-      {
-        "label": "credible",
-        "original_label": "Helt sann",
-        "review_rating": {
-          "@type": "Rating",
-          "alternateName": "Helt sann",
-          "ratingValue": 5,
-          "bestRating": 5,
-          "worstRating": 1
-        },
-        "retrieved_by": null,
-        "date_published": "2017-07-06"
-      }
-    ]
-  }
+        "appearances": [],
+        "reviews": [
+            {
+                "label": "credible",
+                "original_label": "Helt sann",
+                "review_rating": {
+                    "@type": "Rating",
+                    "alternateName": "Helt sann",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                },
+                "retrieved_by": null,
+                "date_published": "2017-07-06"
+            }
+        ]
+    }
 ]

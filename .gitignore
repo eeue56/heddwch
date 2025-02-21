@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+__pycache__
+
+heddwch/
+./2025_02_09.zip
+media/
+web/out.js
+web/server-worker.js

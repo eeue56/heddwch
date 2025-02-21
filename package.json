@@ -1,0 +1,23 @@
+{
+  "name": "heddwch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "devDependencies": {
+    "@types/jsdom": "^21.1.7",
+    "@types/node": "^22.10.1",
+    "@types/serviceworker": "^0.0.108",
+    "esbuild": "^0.24.0",
+    "jsdom": "^26.0.0",
+    "typescript": "^5.7.2"
+  },
+  "scripts": {
+    "build": "esbuild --bundle src/main.ts --outfile=web/out.js --minify",
+    "generate-network-spread-animation": "manim -p scripts/network_spread.py NetworkSpread -qh"
+  },
+  "engines": {
+    "node": "21.x"
+  },
+  "author": "",
+  "license": "BSD-3-Clause"
+}

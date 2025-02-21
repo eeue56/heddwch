@@ -199,6 +199,13 @@ function renderWelcome(): RenderedWithEvents {
     <br>
 
     <span>You're about to take a quiz to see if you can tell truthful headlines vs incorrect headlines.</span>
+
+    <br>
+    <br>
+
+    <div>
+      <a target="_blank" href="https://www.linkedin.com/pulse/flow-disinformation-through-social-networks-noah-hall-rmn5f/">Read more here</a>
+    </div>
   </div>
   <button id="button-begin">Begin</button>
 </div>`,
@@ -373,6 +380,9 @@ function renderOverPage(
     <div class="results-truth-grid">True or false:<br>${truthGrid.join(
       ""
     )} </div>
+    <div class="results-link-to-read-more">
+      <a target="_blank" href="https://www.linkedin.com/pulse/flow-disinformation-through-social-networks-noah-hall-rmn5f/">Read more about spotting fake news here</a>
+    </div>
   </div>
   <button class="results-copy-link" onclick="(function(){ navigator.clipboard.writeText('${urlToCopy}') })()"><strong>Copy link to quiz 🔗</strong></button>
 </div>

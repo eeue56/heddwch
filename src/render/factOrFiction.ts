@@ -227,7 +227,7 @@ const SITE_ICON_URLS: Record<string, string> = {
   "www.faktisk.no":
     "https://www.faktisk.no/view-resources/dachser2/public/faktisk/icon-180.png",
   "fullfact.org": "https://fullfact.org/static/img/ff-logo.a3c246edc83d.png",
-  "www.politifact.com": "/imgs/politifact.png",
+  "www.politifact.com": "./imgs/politifact.png",
   "www.snopes.com": "https://www.snopes.com/design/images/logo-main.png",
 };
 

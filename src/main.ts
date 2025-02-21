@@ -13,6 +13,8 @@ import { startStore } from "./centralStore";
 import { getDebuggingInfo, storeDebuggingInfo } from "./utils/localstorage";
 import { renderer } from "./utils/render";
 
+const PAGE = document.documentElement.getAttribute("page") || "index";
+
 /**
  * Keep track of last render time to avoid rendering too often
  */
@@ -22,10 +24,21 @@ let lastRenderTime = 0;
  * Call the individual render functions
  */
 function renderBody(state: AppState): RenderedWithEvents {
-  if (false) {
-    return renderer`${renderWriteATruthfulPost()}`;
-  } else {
-    return renderer`${renderQuiz(state.quizState)}`;
+  switch (PAGE) {
+    case "write-a-truthful-post": {
+      return renderer`${renderWriteATruthfulPost()}`;
+    }
+    case "fact-or-fiction": {
+      return renderer`${renderQuiz(state.quizState)}`;
+    }
+    default: {
+      return renderer`
+<div class="landing-intro">
+      <div>Welcome to the landing page of Heddwch, a collection examining media </div>
+      <div><a href="./fact-or-fiction">Fact or Fiction quiz - can you spot fake news?</a></div>
+      <div>Heddwch is peace in Welsh. The bards of the Eisteddfod ask the audience "a oes heddwch?" - "is there peace?", before awarding the winning poet the chair.
+</div>`;
+    }
   }
 }
 

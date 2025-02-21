@@ -13,7 +13,7 @@ import { startStore } from "./centralStore";
 import { getDebuggingInfo, storeDebuggingInfo } from "./utils/localstorage";
 import { renderer } from "./utils/render";
 
-const PAGE = document.documentElement.getAttribute("page") || "index";
+const PAGE = document.documentElement.getAttribute("data-page") || "index";
 
 /**
  * Keep track of last render time to avoid rendering too often

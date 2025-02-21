@@ -131,6 +131,8 @@ dist
 
 __pycache__
 
+raw_data/
+server/
 heddwch/
 ./2025_02_09.zip
 media/

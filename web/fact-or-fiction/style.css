@@ -271,7 +271,7 @@ blockquote {
   border-left-width: 15px !important;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 800px) and (min-height: 1000px) {
   .quiz-page,
   .results-copy-link {
     max-width: 800px !important;
@@ -347,6 +347,12 @@ blockquote {
 
   .welcome > div {
     font-size: 30px !important;
+  }
+}
+
+@media (min-width: 800px) {
+  .quiz-page {
+    max-width: 800px !important;
   }
 }
 

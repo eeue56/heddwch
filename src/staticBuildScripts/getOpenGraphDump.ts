@@ -1,20 +1,20 @@
 import { readFile, writeFile } from "fs/promises";
 
-import UK_CREDIBLE_CLAIMS from "../data/uk_credible.json";
-import UK_NOT_CREDIBLE_CLAIMS from "../data/uk_not_credible.json";
+import UK_CREDIBLE_CLAIMS from "../../web/data/uk_credible.json";
+import UK_NOT_CREDIBLE_CLAIMS from "../../web/data/uk_not_credible.json";
 
-import USA_CREDIBLE_CLAIMS from "../data/usa_credible.json";
-import USA_NOT_CREDIBLE_CLAIMS from "../data/usa_not_credible.json";
+import USA_CREDIBLE_CLAIMS from "../../web/data/usa_credible.json";
+import USA_NOT_CREDIBLE_CLAIMS from "../../web/data/usa_not_credible.json";
 
-import NORWEGIAN_CREDIBLE_CLAIMS from "../data/norwegian_credible.json";
-import NORWEGIAN_NOT_CREDIBLE_CLAIMS from "../data/norwegian_not_credible.json";
+import NORWEGIAN_CREDIBLE_CLAIMS from "../../web/data/norwegian_credible.json";
+import NORWEGIAN_NOT_CREDIBLE_CLAIMS from "../../web/data/norwegian_not_credible.json";
 
-import SWEDISH_CREDIBLE_CLAIMS from "../data/sweden_credible.json";
-import SWEDISH_NOT_CREDIBLE_CLAIMS from "../data/sweden_not_credible.json";
-
-import { ClaimReviewRaw, OpenGraph } from "../types";
+import SWEDISH_CREDIBLE_CLAIMS from "../../web/data/sweden_credible.json";
+import SWEDISH_NOT_CREDIBLE_CLAIMS from "../../web/data/sweden_not_credible.json";
 
 import { JSDOM } from "jsdom";
+import { ClaimReviewRaw } from "../types/factOrFiction";
+import { OpenGraph } from "../types/shared";
 
 async function getUrl(
   url: string

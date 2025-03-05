@@ -1,3 +1,12 @@
+import {
+  FactOrFictionState,
+  Update as FactOrFictionUpdate,
+} from "./types/factOrFiction";
+
+import { HeadlinesState, Update as HeadlinesUpdate } from "./types/headlines";
+import { Update as InternalUpdate } from "./types/internal";
+import { ClaimsOpenGraphDatabase } from "./types/shared";
+
 /**
  * Make it explicit which events we use, to help catch typos
  *
@@ -21,53 +30,57 @@ export type RenderedWithEvents = {
   eventListeners: EventHandler[];
 };
 
+const pages = [
+  ":internal",
+  "Index",
+  "FactOrFiction",
+  "Headlines",
+  "SocialMediaPostReviewer",
+] as const;
+
+export type Page = (typeof pages)[number];
+
+export function isPage(page: string): page is Page {
+  return pages.includes(page as Page);
+}
+
+type ActivePageGeneric<page extends Page, state> = {
+  kind: page;
+  state: state;
+};
+
+type ActivePage =
+  | ActivePageGeneric<"FactOrFiction", FactOrFictionState>
+  | ActivePageGeneric<"Headlines", HeadlinesState>
+  | ActivePageGeneric<"SocialMediaPostReviewer", {}>
+  | ActivePageGeneric<"Index", {}>;
+
 /**
  * AppState includes UI state and data
  */
 export type AppState = {
   kind: "AppState";
-  quizState: FactOrFictionState;
-  claimsOpenGraphData: Record<string, OpenGraph>;
+  activePage: ActivePage;
+  claimsOpenGraphData: ClaimsOpenGraphDatabase;
 };
 
-export type FactOrFictionState =
-  | { kind: "LoadedPage" }
-  | { kind: "ChoosingATopic" }
-  | { kind: "QuizIntro"; topic: Topic; claims: ClaimReviewRaw[] }
-  | {
-      kind: "InQuiz";
-      topic: Topic;
-      claims: ClaimReviewRaw[];
-      previousAnswers: boolean[];
-      questionIndex: number;
-    }
-  | {
-      kind: "QuizOver";
-      topic: Topic;
-      claims: ClaimReviewRaw[];
-      answers: boolean[];
-    };
+type PageUpdateGeneric<page extends Page, update> = {
+  page: page;
+  message: update;
+};
+
+type PageUpdate =
+  | PageUpdateGeneric<":internal", InternalUpdate>
+  | PageUpdateGeneric<"FactOrFiction", FactOrFictionUpdate>
+  | PageUpdateGeneric<"Headlines", HeadlinesUpdate>
+  | PageUpdateGeneric<"SocialMediaPostReviewer", { kind: "Noop" }>;
 
 /**
  * These are the messages passed from the client to the service worker.
  *
  * As a principle: pass as little info to the backend as possible
  */
-export type Update =
-  | { kind: "Noop" }
-  | { kind: "ReadyToRender" }
-  | { kind: "SetDebuggingInfo"; info: DebuggingInfo }
-  | { kind: "ClickedTrue"; claim: SocialMediaClaimReview }
-  | { kind: "ClickedFalse"; claim: SocialMediaClaimReview }
-  | { kind: "SelectedATopic"; topic: Topic }
-  | { kind: "BeginQuizClicked" }
-  | { kind: "ContinueButtonClicked"; answer: boolean }
-  | {
-      kind: "AddOpenGraphData";
-      claim: ClaimReviewRaw;
-      openGraphData: OpenGraph;
-    }
-  | { kind: "Restart" };
+export type Update = PageUpdate;
 
 /**
  * These are used to make sure that events communicate over the broadcast channel
@@ -80,7 +93,7 @@ export function dontSend(): Sent {
   return "Noop";
 }
 
-export function sendUpdate(update: Update): Sent {
+export function centralSendUpdate(update: Update): Sent {
   const renderChannel = TypedBroadcastChannel<Update>("render");
   renderChannel.postMessage(update);
 
@@ -89,7 +102,7 @@ export function sendUpdate(update: Update): Sent {
 
 export type DebuggingInfo = {
   kind: "DebuggingInfo";
-  eventLog: Update["kind"][];
+  eventLog: `${Update["page"]}-->${Update["message"]["kind"]}`[];
 };
 
 export type RenderBroadcast =
@@ -128,40 +141,3 @@ export function IncorrectPayload(): IncorrectPayload {
     kind: "IncorrectPayload",
   };
 }
-
-type ClaimLabel =
-  | "check_me"
-  | "credible"
-  | "mostly_credible"
-  | "not_credible"
-  | "not_verifiable"
-  | "uncertain";
-
-export type SocialMediaClaimReview = {
-  label: ClaimLabel;
-  text: string;
-};
-
-export type ClaimReviewRaw = {
-  label: ClaimLabel;
-  claim_text: string[];
-  appearances: string[];
-  reviews: Review[];
-  review_url: string;
-};
-
-type Review = {
-  original_label: string;
-};
-
-export const TOPICS = ["Norway", "USA", "UK", "Sweden"] as const;
-
-export type Topic = (typeof TOPICS)[number];
-
-export type OpenGraph = {
-  title?: string;
-  image_url?: string;
-  image_width?: number;
-  image_height?: number;
-  description?: string;
-};

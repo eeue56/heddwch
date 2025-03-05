@@ -2,18 +2,17 @@ import { renderQuiz } from "./render/factOrFiction";
 import { renderWriteATruthfulPost } from "./render/writeATruthfulPost";
 import {
   AppState,
+  centralSendUpdate,
   RenderBroadcast,
   RenderedWithEvents,
   RenderError,
-  sendUpdate,
   TypedBroadcastChannel,
 } from "./types";
 
 import { startStore } from "./centralStore";
+import { renderHeadlines } from "./render/headlines";
 import { getDebuggingInfo, storeDebuggingInfo } from "./utils/localstorage";
 import { renderer } from "./utils/render";
-
-const PAGE = document.documentElement.getAttribute("data-page") || "index";
 
 /**
  * Keep track of last render time to avoid rendering too often
@@ -23,19 +22,23 @@ let lastRenderTime = 0;
 /**
  * Call the individual render functions
  */
-function renderBody(state: AppState): RenderedWithEvents {
-  switch (PAGE) {
-    case "write-a-truthful-post": {
+async function renderBody(state: AppState): Promise<RenderedWithEvents> {
+  switch (state.activePage.kind) {
+    case "SocialMediaPostReviewer": {
       return renderer`${renderWriteATruthfulPost()}`;
     }
-    case "fact-or-fiction": {
-      return renderer`${renderQuiz(state.quizState)}`;
+    case "FactOrFiction": {
+      return renderQuiz(state.activePage.state, state.claimsOpenGraphData);
     }
-    default: {
+    case "Headlines": {
+      return renderHeadlines(state.activePage.state);
+    }
+    case "Index": {
       return renderer`
 <div class="landing-intro">
       <div>Welcome to the landing page of Heddwch, a collection examining media </div>
       <div><a href="./fact-or-fiction">Fact or Fiction quiz - can you spot fake news?</a></div>
+      <div><a href="./headlines">A Reddit style UI - can you spot fake news?</a></div>
       <div>Heddwch is peace in Welsh. The bards of the Eisteddfod ask the audience "a oes heddwch?" - "is there peace?", before awarding the winning poet the chair.
 </div>`;
     }
@@ -51,7 +54,7 @@ function renderBody(state: AppState): RenderedWithEvents {
  *
  * By default, it logs info on rendering + event attachment time
  */
-function render(state: AppState): void {
+async function render(state: AppState): Promise<void> {
   const rightNow = performance.now();
   const diff = rightNow - lastRenderTime;
 
@@ -62,7 +65,24 @@ function render(state: AppState): void {
     return;
   }
 
-  document.title = "Fact or fiction? | Heddwch";
+  switch (state.activePage.kind) {
+    case "FactOrFiction": {
+      document.title = "Fact or fiction? | Heddwch";
+      break;
+    }
+    case "Headlines": {
+      document.title = "Headlines | Heddwch";
+      break;
+    }
+    case "SocialMediaPostReviewer": {
+      document.title = "Post reviewer | Heddwch";
+      break;
+    }
+    case "Index": {
+      document.title = "Factual tools | Heddwch";
+      break;
+    }
+  }
   const mainElement = document.getElementById("main");
 
   console.group("Rendering info");
@@ -74,7 +94,7 @@ function render(state: AppState): void {
 
   try {
     let start = performance.now();
-    const body = renderBody(state);
+    const body = await renderBody(state);
     let end = performance.now();
 
     console.info("Render time:", end - start);
@@ -138,13 +158,16 @@ renderChannel.channel.addEventListener(
 );
 
 async function main() {
-  startStore();
+  await startStore();
   let info = getDebuggingInfo();
   if (!info) {
     info = { kind: "DebuggingInfo", eventLog: [] };
   }
-  sendUpdate({ kind: "SetDebuggingInfo", info });
-  sendUpdate({ kind: "ReadyToRender" });
+  centralSendUpdate({
+    page: ":internal",
+    message: { kind: "SetDebuggingInfo", info },
+  });
+  centralSendUpdate({ page: ":internal", message: { kind: "ReadyToRender" } });
 }
 
 main();

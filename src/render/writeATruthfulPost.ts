@@ -1,4 +1,5 @@
-import { dontSend, RenderedWithEvents, SocialMediaClaimReview } from "../types";
+import { dontSend, RenderedWithEvents } from "../types";
+import { SocialMediaClaimReview } from "../types/socialMediaPostReviewer";
 import { renderer } from "../utils/render";
 
 function renderTruthfulPostPrompt(): RenderedWithEvents {
@@ -40,7 +41,6 @@ function renderTruthfulPostInput(): RenderedWithEvents {
               repl.innerHTML = renderClaims([]).body;
               return dontSend();
             }
-            console.log("Sending network request...");
             const claims = await (
               await fetch("/claims", {
                 body: JSON.stringify({ input: text }),

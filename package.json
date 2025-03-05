@@ -19,5 +19,8 @@
     "node": "21.x"
   },
   "author": "",
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "simple-link-aggregator": "^0.0.1"
+  }
 }

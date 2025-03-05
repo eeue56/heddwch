@@ -1,17 +1,23 @@
 import {
-  ClaimReviewRaw,
+  centralSendUpdate,
   dontSend,
-  FactOrFictionState,
-  OpenGraph,
   RenderedWithEvents,
-  sendUpdate,
   Sent,
-  Topic,
-  TOPICS,
 } from "../types";
 import { renderer } from "../utils/render";
 
-import ClaimsOpenGraphDatabase from "../data/claim_review_opengraph_database.json";
+import {
+  ClaimReviewRaw,
+  FactOrFictionState,
+  Topic,
+  TOPICS,
+  Update,
+} from "../types/factOrFiction";
+import { ClaimsOpenGraphDatabase, OpenGraph } from "../types/shared";
+
+function sendUpdate(update: Update): Sent {
+  return centralSendUpdate({ page: "FactOrFiction", message: update });
+}
 
 type AnswerChosen = "True" | "False" | "NotYetChosen";
 
@@ -148,8 +154,16 @@ function renderIntro(): RenderedWithEvents {
         "Claim: I understand what I need to do",
       ],
       appearances: [],
-      reviews: [{ original_label: "Great, let's get started" }],
+      reviews: [
+        {
+          original_label: "Great, let's get started",
+          date_published: "2025-02-26",
+        },
+      ],
       review_url: "",
+      fact_checker: {
+        country: "Norway",
+      },
     },
     {}
   )}`;
@@ -414,10 +428,10 @@ function renderRestartButton(): RenderedWithEvents {
   };
 }
 
-function renderQuizState(state: FactOrFictionState): RenderedWithEvents {
-  const claimsOpenGraphData: Record<string, OpenGraph> =
-    ClaimsOpenGraphDatabase;
-
+function renderQuizState(
+  state: FactOrFictionState,
+  claimsOpenGraphData: ClaimsOpenGraphDatabase
+): RenderedWithEvents {
   switch (state.kind) {
     case "LoadedPage": {
       return renderWelcome();
@@ -447,10 +461,13 @@ ${renderRestartButton()}
   }
 }
 
-export function renderQuiz(state: FactOrFictionState): RenderedWithEvents {
+export function renderQuiz(
+  state: FactOrFictionState,
+  claimsOpenGraphData: ClaimsOpenGraphDatabase
+): RenderedWithEvents {
   return renderer`
 <div class="quiz-page">
-  ${renderQuizState(state)}
+  ${renderQuizState(state, claimsOpenGraphData)}
 </div>
   `;
 }

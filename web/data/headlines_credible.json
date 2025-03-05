@@ -1,0 +1,848 @@
+[
+  {
+    "claim_text": [
+      "The manufacturer of Bovaer has also invested in a synthetic meat company."
+    ],
+    "label": "credible",
+    "review_url": "https://fullfact.org/news/bovaer-meat-investing-male-fertility/",
+    "fact_checker": {
+      "name": "full-fact",
+      "country": "United Kingdom",
+      "language": "English",
+      "website": "https://fullfact.org",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/full-fact",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/58EEDC1E-D7D3-AED8-6BF3-76D6F54407E4.png",
+      "domain": "fullfact.org"
+    },
+    "appearances": [
+      "https://www.facebook.com/pj.cremin/posts/pfbid06m2HvznC7cTpVBBxzgujHdarmXuJBgs5U3qEYMe6Y5F4SioyKG8Yrq37RbN4heB8l?__cft__%5B0%5D=AZXlp6bTqg_eMD_b1jZzJedn81zSCzp6mc2jDuUwtsriJDeQkA5iZI2aNS_VM8VzbR_cWSDIxZSL61MwOWhu35c2CvlunN_EkDJUdQB3bE7AHmRbCkMmuhZvRtfC1wJLSLs&__tn__=%2CO%2CP-R"
+    ],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "This is correct. The company which manufactures Bovaer, DSM-Firmenich, is listed as an investor in Meatable, a lab-grown meat start-up.",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "This is correct. The company which manufactures Bovaer, DSM-Firmenich, is listed as an investor in Meatable, a lab-grown meat start-up.",
+          "ratingValue": null,
+          "bestRating": null,
+          "worstRating": null
+        },
+        "retrieved_by": null,
+        "date_published": "2025-01-16"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "Mr Trump’s second UK state visit is unprecedented."
+    ],
+    "label": "credible",
+    "review_url": "https://fullfact.org/news/trump-starmer-round-up/",
+    "fact_checker": {
+      "name": "full-fact",
+      "country": "United Kingdom",
+      "language": "English",
+      "website": "https://fullfact.org",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/full-fact",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/58EEDC1E-D7D3-AED8-6BF3-76D6F54407E4.png",
+      "domain": "fullfact.org"
+    },
+    "appearances": [
+      "https://www.youtube.com/watch?v=_TeQIEujgQY"
+    ],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "This is true—Mr Trump will be the first elected head of state to receive a second state visit.",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "This is true—Mr Trump will be the first elected head of state to receive a second state visit.",
+          "ratingValue": null,
+          "bestRating": null,
+          "worstRating": null
+        },
+        "retrieved_by": null,
+        "date_published": "2025-02-27"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "During his Senate confirmation hearing for his appointment to head U.S. President Donald Trump's Department of Health and Human Services on Jan. 29, 2025, Robert F. Kennedy, Jr. said: &quot;All of my kids are vaccinated.&quot;"
+    ],
+    "label": "credible",
+    "review_url": "https://www.snopes.com/fact-check/rfk-jr-children-vaccinated/",
+    "fact_checker": {
+      "name": "snopescom",
+      "country": "United States",
+      "language": "English",
+      "website": "https://www.snopes.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/snopescom",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/9D0ADD14-7A0C-1E14-9B1F-28D71EADB2AA.png",
+      "domain": "snopes.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Attribution",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "Correct Attribution"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-01-29"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "Martin Luther King Jr. once said, “We need leaders not in love with money but in love with justice.”"
+    ],
+    "label": "credible",
+    "review_url": "https://www.snopes.com/fact-check/mlk-money-justice-leaders-quote/",
+    "fact_checker": {
+      "name": "snopescom",
+      "country": "United States",
+      "language": "English",
+      "website": "https://www.snopes.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/snopescom",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/9D0ADD14-7A0C-1E14-9B1F-28D71EADB2AA.png",
+      "domain": "snopes.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Attribution",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "Correct Attribution"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-01-23"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "Vice President-elect J.D. Vance once said of President-elect Donald Trump, “Mr. Trump is unfit for our nation’s highest office.”"
+    ],
+    "label": "credible",
+    "review_url": "https://www.snopes.com/fact-check/trump-vance-highest-office/",
+    "fact_checker": {
+      "name": "snopescom",
+      "country": "United States",
+      "language": "English",
+      "website": "https://www.snopes.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/snopescom",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/9D0ADD14-7A0C-1E14-9B1F-28D71EADB2AA.png",
+      "domain": "snopes.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Attribution",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "Correct Attribution"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-01-18"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "On Jan. 2, 2024, Elon Musk claimed that performing more cesarean sections (C-sections) allows for babies having larger brains."
+    ],
+    "label": "credible",
+    "review_url": "https://www.snopes.com/fact-check/elon-musk-c-sections/",
+    "fact_checker": {
+      "name": "snopescom",
+      "country": "United States",
+      "language": "English",
+      "website": "https://www.snopes.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/snopescom",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/9D0ADD14-7A0C-1E14-9B1F-28D71EADB2AA.png",
+      "domain": "snopes.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Attribution",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "Correct Attribution"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-01-07"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "U.S. Vice President JD Vance once said, &quot;The professors are the enemy.&quot;"
+    ],
+    "label": "credible",
+    "review_url": "https://www.snopes.com/fact-check/vance-nixon-professors-quote/",
+    "fact_checker": {
+      "name": "snopescom",
+      "country": "United States",
+      "language": "English",
+      "website": "https://www.snopes.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/snopescom",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/9D0ADD14-7A0C-1E14-9B1F-28D71EADB2AA.png",
+      "domain": "snopes.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Attribution",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "Correct Attribution"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-02-09"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "U.S. President-elect Donald Trump said that if Israeli hostages held by Hamas &quot;are not back by the time I get into office, all hell will break out in the Middle East.&quot;"
+    ],
+    "label": "credible",
+    "review_url": "https://www.snopes.com/fact-check/trump-hell-israel-hostages/",
+    "fact_checker": {
+      "name": "snopescom",
+      "country": "United States",
+      "language": "English",
+      "website": "https://www.snopes.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/snopescom",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/9D0ADD14-7A0C-1E14-9B1F-28D71EADB2AA.png",
+      "domain": "snopes.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Attribution",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "Correct Attribution"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-01-15"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "Dan Bongino, U.S. President Donald Trump's pick for FBI deputy director, once wrote a post on X beginning with the words, &quot;The irony about this for the scumbag commie libs, is that the cold civil war they're pushing for will end really badly for them.&quot;"
+    ],
+    "label": "credible",
+    "review_url": "https://www.snopes.com/fact-check/bogino-post-fbi-deputy-director/",
+    "fact_checker": {
+      "name": "snopescom",
+      "country": "United States",
+      "language": "English",
+      "website": "https://www.snopes.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/snopescom",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/9D0ADD14-7A0C-1E14-9B1F-28D71EADB2AA.png",
+      "domain": "snopes.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Attribution",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "Correct Attribution"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-02-24"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "Amazon founder Jeff Bezos once said he tells employees to “wake up terrified every morning” in order to best serve customers."
+    ],
+    "label": "credible",
+    "review_url": "https://www.snopes.com/fact-check/bezos-amazon-quote/",
+    "fact_checker": {
+      "name": "snopescom",
+      "country": "United States",
+      "language": "English",
+      "website": "https://www.snopes.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/snopescom",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/9D0ADD14-7A0C-1E14-9B1F-28D71EADB2AA.png",
+      "domain": "snopes.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Attribution",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "Correct Attribution"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-01-25"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "Elon Musk posted on X in January 2024, regarding aviation hiring, &quot;It will take an airplane crashing and killing hundreds of people for them to change this crazy policy of DIE.&quot;"
+    ],
+    "label": "credible",
+    "review_url": "https://www.snopes.com/fact-check/musk-airplane-crashing-dei/",
+    "fact_checker": {
+      "name": "snopescom",
+      "country": "United States",
+      "language": "English",
+      "website": "https://www.snopes.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/snopescom",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/9D0ADD14-7A0C-1E14-9B1F-28D71EADB2AA.png",
+      "domain": "snopes.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Attribution",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "Correct Attribution"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-01-31"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "Former Attorney General Robert F. Kennedy once said, “What is objectionable, what is dangerous about extremists is not that they are extreme, but that they are intolerant. The evil is not what they say about their cause, but what they say about their opponents.”"
+    ],
+    "label": "credible",
+    "review_url": "https://www.snopes.com/fact-check/robert-kennedy-extremism-quote/",
+    "fact_checker": {
+      "name": "snopescom",
+      "country": "United States",
+      "language": "English",
+      "website": "https://www.snopes.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/snopescom",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/9D0ADD14-7A0C-1E14-9B1F-28D71EADB2AA.png",
+      "domain": "snopes.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Attribution",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "Correct Attribution"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-01-14"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "Former U.S. President Jimmy Carter once said: “A strong nation, like a strong person, can afford to be gentle, firm, thoughtful and restrained. It can afford to extend a helping hand to others. It's a weak nation, like a weak person, that must behave with bluster and boasting and rashness and other signs of insecurity.”"
+    ],
+    "label": "credible",
+    "review_url": "https://www.snopes.com/fact-check/jimmy-carter-nations-quote/",
+    "fact_checker": {
+      "name": "snopescom",
+      "country": "United States",
+      "language": "English",
+      "website": "https://www.snopes.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/snopescom",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/9D0ADD14-7A0C-1E14-9B1F-28D71EADB2AA.png",
+      "domain": "snopes.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Attribution",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "Correct Attribution"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-01-09"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "Former U.S. President Ronald Reagan once said: &quot;We should measure welfare's success by how many people leave welfare, not by how many are added.&quot;"
+    ],
+    "label": "credible",
+    "review_url": "https://www.snopes.com/fact-check/reagan-welfare-success-quote/",
+    "fact_checker": {
+      "name": "snopescom",
+      "country": "United States",
+      "language": "English",
+      "website": "https://www.snopes.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/snopescom",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/9D0ADD14-7A0C-1E14-9B1F-28D71EADB2AA.png",
+      "domain": "snopes.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Attribution",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "Correct Attribution"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-01-18"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "U.S. State Department hire Darren Beattie wrote on X: &quot;Competent white men must be in charge if you want things to work. Unfortunately, our entire national ideology is predicated on coddling the feelings of women and minorities, and demoralizing competent white men.&quot;"
+    ],
+    "label": "credible",
+    "review_url": "https://www.snopes.com/fact-check/trump-darren-beattie-state-department/",
+    "fact_checker": {
+      "name": "snopescom",
+      "country": "United States",
+      "language": "English",
+      "website": "https://www.snopes.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/snopescom",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/9D0ADD14-7A0C-1E14-9B1F-28D71EADB2AA.png",
+      "domain": "snopes.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Attribution",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "Correct Attribution"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-02-04"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "In 2012, future U.S. President Donald Trump tweeted, &quot;Why is Barack Obama constantly issuing executive orders that are major power grabs of authority?&quot;"
+    ],
+    "label": "credible",
+    "review_url": "https://www.snopes.com/fact-check/trump-obama-constantly-issuing-executive-orders/",
+    "fact_checker": {
+      "name": "snopescom",
+      "country": "United States",
+      "language": "English",
+      "website": "https://www.snopes.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/snopescom",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/9D0ADD14-7A0C-1E14-9B1F-28D71EADB2AA.png",
+      "domain": "snopes.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Attribution",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "Correct Attribution"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "President-elect Donald Trump said he wants to rename the Gulf of Mexico the &quot;Gulf of America.&quot;"
+    ],
+    "label": "credible",
+    "review_url": "https://www.snopes.com/fact-check/trump-rename-gulf-of-america/",
+    "fact_checker": {
+      "name": "snopescom",
+      "country": "United States",
+      "language": "English",
+      "website": "https://www.snopes.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/snopescom",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/9D0ADD14-7A0C-1E14-9B1F-28D71EADB2AA.png",
+      "domain": "snopes.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Attribution",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "Correct Attribution"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-01-07"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "U.S. Vice President JD Vance has said and written that his grandmother once set his grandfather on fire."
+    ],
+    "label": "credible",
+    "review_url": "https://www.snopes.com/fact-check/vance-grandparents-fire/",
+    "fact_checker": {
+      "name": "snopescom",
+      "country": "United States",
+      "language": "English",
+      "website": "https://www.snopes.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/snopescom",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/9D0ADD14-7A0C-1E14-9B1F-28D71EADB2AA.png",
+      "domain": "snopes.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Attribution",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "Correct Attribution"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-01-30"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "Elon Musk said Americans would experience “temporary hardship” due to his and U.S. President Donald Trump’s plan to curb government spending."
+    ],
+    "label": "credible",
+    "review_url": "https://www.snopes.com/fact-check/musk-americans-temporary-hardship/",
+    "fact_checker": {
+      "name": "snopescom",
+      "country": "United States",
+      "language": "English",
+      "website": "https://www.snopes.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/snopescom",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/9D0ADD14-7A0C-1E14-9B1F-28D71EADB2AA.png",
+      "domain": "snopes.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Attribution",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "Correct Attribution"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-02-06"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "Singer Dolly Parton once said, “​​I’ve got transgender people. I’ve got gays. I’ve got lesbians. I’ve got drunks. I’ve got drug addicts — all within my own family. I know and love them all, and I do not judge.”"
+    ],
+    "label": "credible",
+    "review_url": "https://www.snopes.com/fact-check/dolly-parton-family-quote/",
+    "fact_checker": {
+      "name": "snopescom",
+      "country": "United States",
+      "language": "English",
+      "website": "https://www.snopes.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/snopescom",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/9D0ADD14-7A0C-1E14-9B1F-28D71EADB2AA.png",
+      "domain": "snopes.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Attribution",
+        "review_rating": {
+          "@type": "Rating",
+          "alternateName": "Correct Attribution"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-03-02"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "Gene Hackman found dead with wife in alleged double suicide"
+    ],
+    "label": "credible",
+    "review_url": "https://leadstories.com/breaking/2025/02/fact-check-what-we-know-so-far-claims-gene-hackman-and-wife-took-their-own-lives.html",
+    "fact_checker": {
+      "name": "lead-stories",
+      "country": "United States",
+      "language": "English",
+      "website": "https://leadstories.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/lead-stories",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/6B68640F-7233-0C7E-4677-629D2085C248.png",
+      "domain": "leadstories.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Death Details",
+        "review_rating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5",
+          "worstRating": "1",
+          "alternateName": "Death Details"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-02-27"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "President Joe Biden erred in saying \"end of quote\" during his farewell address on January 15, 2025, as some social media posts suggested."
+    ],
+    "label": "credible",
+    "review_url": "https://leadstories.com/hoax-alert/2025/01/fact-check-biden-saying-end-of-quote-in-farewell-address-not-a-mistake.html",
+    "fact_checker": {
+      "name": "lead-stories",
+      "country": "United States",
+      "language": "English",
+      "website": "https://leadstories.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/lead-stories",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/6B68640F-7233-0C7E-4677-629D2085C248.png",
+      "domain": "leadstories.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Correct Form",
+        "review_rating": {
+          "@type": "Rating",
+          "ratingValue": "1",
+          "bestRating": "5",
+          "worstRating": "1",
+          "alternateName": "Correct Form"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-01-16"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "The Philadelphia Eagles rejected an invite to the White House in 2025"
+    ],
+    "label": "credible",
+    "review_url": "https://leadstories.com/hoax-alert/2025/02/philadephia-eagles-white-house-visit-2025.html",
+    "fact_checker": {
+      "name": "lead-stories",
+      "country": "United States",
+      "language": "English",
+      "website": "https://leadstories.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/lead-stories",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/6B68640F-7233-0C7E-4677-629D2085C248.png",
+      "domain": "leadstories.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "What We Know",
+        "review_rating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5",
+          "worstRating": "1",
+          "alternateName": "What We Know"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-02-25"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "\"Trump Gaza\" video was published on Donald Trump's official social media channels"
+    ],
+    "label": "credible",
+    "review_url": "https://leadstories.com/hoax-alert/2025/02/fact-check-trump-gaza-ai-video.html",
+    "fact_checker": {
+      "name": "lead-stories",
+      "country": "United States",
+      "language": "English",
+      "website": "https://leadstories.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/lead-stories",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/6B68640F-7233-0C7E-4677-629D2085C248.png",
+      "domain": "leadstories.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "He Posted It",
+        "review_rating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5",
+          "worstRating": "1",
+          "alternateName": "He Posted It"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-02-26"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "Was Park Ranger Brian Gibbs fired as a viral Facebook post says"
+    ],
+    "label": "credible",
+    "review_url": "https://leadstories.com/hoax-alert/2025/02/fact-check-brian-gibbs-park-ranger-fired-viral-facebook-post.html",
+    "fact_checker": {
+      "name": "lead-stories",
+      "country": "United States",
+      "language": "English",
+      "website": "https://leadstories.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/lead-stories",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/6B68640F-7233-0C7E-4677-629D2085C248.png",
+      "domain": "leadstories.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "What We Know",
+        "review_rating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5",
+          "worstRating": "1",
+          "alternateName": "What We Know"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-02-16"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "Donald Trump posted a meme of SpongeBob's 5 things he got done last week."
+    ],
+    "label": "credible",
+    "review_url": "https://leadstories.com/hoax-alert/2025/02/fact-check-trump-did-post-spongebob-got-done-last-week-list.html",
+    "fact_checker": {
+      "name": "lead-stories",
+      "country": "United States",
+      "language": "English",
+      "website": "https://leadstories.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/lead-stories",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/6B68640F-7233-0C7E-4677-629D2085C248.png",
+      "domain": "leadstories.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "Trump Posted",
+        "review_rating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5",
+          "worstRating": "1",
+          "alternateName": "Trump Posted"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-02-24"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "HaltBakk Bunkers Facebook post saying \"no fuel to Americans\" is genuine"
+    ],
+    "label": "credible",
+    "review_url": "https://leadstories.com/hoax-alert/2025/03/fact-check-haltbakk-bunkers-facebook-post.html",
+    "fact_checker": {
+      "name": "lead-stories",
+      "country": "United States",
+      "language": "English",
+      "website": "https://leadstories.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/lead-stories",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/6B68640F-7233-0C7E-4677-629D2085C248.png",
+      "domain": "leadstories.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "What We Know",
+        "review_rating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5",
+          "worstRating": "1",
+          "alternateName": "What We Know"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-03-02"
+      }
+    ]
+  },
+  {
+    "claim_text": [
+      "GOP House Judiciary Committee posts Rickroll video in tweet promising Epstein files"
+    ],
+    "label": "credible",
+    "review_url": "https://leadstories.com/hoax-alert/2025/02/fact-check-house-judiciary-gop-did-link-to-a-rickroll-in-tweet-promising-epstein-files-later-deleted.html",
+    "fact_checker": {
+      "name": "lead-stories",
+      "country": "United States",
+      "language": "English",
+      "website": "https://leadstories.com",
+      "ifcn_url": "https://ifcncodeofprinciples.poynter.org/profile/lead-stories",
+      "avatar": "https://cdn.ifcncodeofprinciples.poynter.org/storage/badges/6B68640F-7233-0C7E-4677-629D2085C248.png",
+      "domain": "leadstories.com"
+    },
+    "appearances": [],
+    "reviews": [
+      {
+        "label": "credible",
+        "original_label": "They Did It",
+        "review_rating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5",
+          "worstRating": "1",
+          "alternateName": "They Did It"
+        },
+        "retrieved_by": null,
+        "date_published": "2025-02-28"
+      }
+    ]
+  }
+]

@@ -131,8 +131,13 @@ function renderWelcome(): RenderedWithEvents {
 
       <span>You're about to see a series of headlines which may be true or false, presented as they would be on Reddit. Let's see if a headline is enough to figure out what's truthful. Vote true or false, and see what you got right.</span>
 
+
       <br>
+
+      <a target="_blank" href="https://www.linkedin.com/pulse/face-reality-people-mostly-only-read-headlines-noah-hall-w4ysf">Read more here</a>
+
       <br>
+
     </div>
     <button id="button-begin">Begin</button>
   </div>`,

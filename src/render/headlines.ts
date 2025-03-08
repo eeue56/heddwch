@@ -74,6 +74,13 @@ function renderHeadlinesStories(
 
     voting.appendChild(node);
 
+    const domainElements = dom.getElementsByClassName("story-domain");
+
+    for (const element of domainElements) {
+      (element as HTMLAnchorElement).href = `https://${element.innerHTML}`;
+      (element as HTMLAnchorElement).target = "_blank";
+    }
+
     return dom.children[0].innerHTML;
   });
 

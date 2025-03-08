@@ -57,3 +57,11 @@ body {
 .story-relevancy-title {
   display: none;
 }
+
+.story-topics {
+  display: none !important;
+}
+
+.story-meta::after {
+  border: none !important;
+}
